@@ -1,0 +1,12 @@
+content_weight = 1
+style_weight = 50 
+optimizer = optim.Adam([target], lr=0.007)
+steps = 100000
+nr content im = 10
+
+
+'conv1_1': 0.2,
+'conv2_1': 0.2,
+'conv3_1': 0.2,
+'conv4_1': 0.2,
+'conv5_1': 0.2
