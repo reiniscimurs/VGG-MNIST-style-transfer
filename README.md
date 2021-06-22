@@ -1,6 +1,6 @@
 # VGG-MNIST-style-transfer
 
-VGG based calligraphy style transfer for hand written numbers from MNIST dataset. The goal of this project is to embed a certain caligraphy style to hand drawn numbers and test if m,ultiple style image use improves the transfer. First, we create a composite image of 10x10 random numbers from the MNIST dataset. Then, create a number of caligraphy style images from which the style features are extracted from. We augment each individual style number to create a better feature represantation and matching to MNIST numbers. The features are applied to the original hand drawn image to change the numbers so that they would possess the selected style but still represent the original contents as much as possible.
+VGG based calligraphy style transfer for handwritten numbers from MNIST dataset. The goal of this project is to embed a certain calligraphy style to hand-drawn numbers and test if multiple style image use improves the transfer. First, we create a composite image of 10x10 random numbers from the MNIST dataset. Then, create a number of calligraphy style images from which the style features are extracted. We augment each individual style number to create a better feature representation and match to MNIST numbers. The features are applied to the original hand-drawn image to change the numbers so that they would possess the selected style but still represent the original contents as much as possible.
 
 Original paper:  
 Image Style Transfer Using Convolutional Neural Networks, Gatys L.A. et al, 2016  
