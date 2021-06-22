@@ -10,26 +10,26 @@ https://openaccess.thecvf.com/content_cvpr_2016/html/Gatys_Image_Style_Transfer_
 # Results  
 **Multiple Styles**  
 3 styles used for style feature extraction  
-| ![mnist.jpg](https://github.com/reiniscimurs/VGG-MNIST-style-transfer/blob/main/mnist.jpg) | ![style.jpg](https://github.com/reiniscimurs/VGG-MNIST-style-transfer/blob/main/style.jpg) | ![out.jpg](https://github.com/reiniscimurs/VGG-MNIST-style-transfer/blob/main/out.jpg) | ![out.gif](https://github.com/reiniscimurs/VGG-MNIST-style-transfer/blob/main/output.gif) |
+| ![mnist.jpg](https://github.com/reiniscimurs/VGG-MNIST-style-transfer/blob/main/mnist.jpg) | ![out.jpg](https://github.com/reiniscimurs/VGG-MNIST-style-transfer/blob/main/out.jpg) | ![out.gif](https://github.com/reiniscimurs/VGG-MNIST-style-transfer/blob/main/output.gif) | ![style.jpg](https://github.com/reiniscimurs/VGG-MNIST-style-transfer/blob/main/style.jpg)|
 |:--:|:--:| :--:|:--:|
-| MNIST image |Style example |Output |Output GIF |
+| MNIST image |Output |Output GIF |Style example |
 
 
 **Style 2**  
-1 style image used for feature extraction  
-| ![mnist.jpg](https://github.com/reiniscimurs/VGG-MNIST-style-transfer/blob/main/results/res%20num2-1/mnist.jpg) | ![style.jpg](https://github.com/reiniscimurs/VGG-MNIST-style-transfer/blob/main/results/res%20num2-1/style.jpg) | ![out.jpg](https://github.com/reiniscimurs/VGG-MNIST-style-transfer/blob/main/results/res%20num2-1/out.jpg) |
+1 style image used for feature extraction:  
+| ![mnist.jpg](https://github.com/reiniscimurs/VGG-MNIST-style-transfer/blob/main/results/res%20num2-1/mnist.jpg) | ![out.jpg](https://github.com/reiniscimurs/VGG-MNIST-style-transfer/blob/main/results/res%20num2-1/out.jpg) | ![style.jpg](https://github.com/reiniscimurs/VGG-MNIST-style-transfer/blob/main/results/res%20num2-1/style.jpg) |
 |:--:|:--:| :--:|
-| MNIST image |Style example |Output |
+| MNIST image |Output |Style example  |
 
-5 style images used for feature extraction  
-| ![mnist.jpg](https://github.com/reiniscimurs/VGG-MNIST-style-transfer/blob/main/results/res%20num2-5/mnist.jpg) | ![style.jpg](https://github.com/reiniscimurs/VGG-MNIST-style-transfer/blob/main/results/res%20num2-5/style.jpg) | ![out.jpg](https://github.com/reiniscimurs/VGG-MNIST-style-transfer/blob/main/results/res%20num2-5/out.jpg) |
+5 style images used for feature extraction:  
+| ![mnist.jpg](https://github.com/reiniscimurs/VGG-MNIST-style-transfer/blob/main/results/res%20num2-5/mnist.jpg) | ![out.jpg](https://github.com/reiniscimurs/VGG-MNIST-style-transfer/blob/main/results/res%20num2-5/out.jpg) | ![style.jpg](https://github.com/reiniscimurs/VGG-MNIST-style-transfer/blob/main/results/res%20num2-5/style.jpg) |
 |:--:|:--:| :--:|
-| MNIST image |Style example |Output |
+| MNIST image |Output |Style example  |
 
-100 style image used for feature extraction  
-| ![mnist.jpg](https://github.com/reiniscimurs/VGG-MNIST-style-transfer/blob/main/results/res%20num2-100/mnist.jpg) | ![style.jpg](https://github.com/reiniscimurs/VGG-MNIST-style-transfer/blob/main/results/res%20num2-100/style.jpg) | ![out.jpg](https://github.com/reiniscimurs/VGG-MNIST-style-transfer/blob/main/results/res%20num2-100/out.jpg) |
+100 style image used for feature extraction:  
+| ![mnist.jpg](https://github.com/reiniscimurs/VGG-MNIST-style-transfer/blob/main/results/res%20num2-100/mnist.jpg) | ![out.jpg](https://github.com/reiniscimurs/VGG-MNIST-style-transfer/blob/main/results/res%20num2-100/out.jpg) | ![style.jpg](https://github.com/reiniscimurs/VGG-MNIST-style-transfer/blob/main/results/res%20num2-100/style.jpg) |
 |:--:|:--:| :--:|
-| MNIST image |Style example |Output |
+| MNIST image |Output |Style example  |
 
 
 
