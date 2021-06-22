@@ -26,7 +26,7 @@ Before running the code, extract the train-images-idx3-ubyte.zip (MNIST dataset)
 
 # Results  
 **Multiple Styles**  
-3 styles used for style feature extraction  
+3 styles used for style feature extraction:  
 | ![mnist.jpg](https://github.com/reiniscimurs/VGG-MNIST-style-transfer/blob/main/mnist.jpg) | ![out.jpg](https://github.com/reiniscimurs/VGG-MNIST-style-transfer/blob/main/out.jpg) | ![out.gif](https://github.com/reiniscimurs/VGG-MNIST-style-transfer/blob/main/output.gif) | ![style.jpg](https://github.com/reiniscimurs/VGG-MNIST-style-transfer/blob/main/style.jpg)|
 |:--:|:--:| :--:|:--:|
 | MNIST image |Output |Output GIF |Style example |
