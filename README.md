@@ -15,6 +15,10 @@ https://openaccess.thecvf.com/content_cvpr_2016/html/Gatys_Image_Style_Transfer_
 * [Augmentor](https://github.com/mdbloice/Augmentor)
 
 
+**Video of results:** 
+
+[![EXPERIMENTS](https://img.youtube.com/vi/cEzpXJm9OGw/0.jpg)](https://www.youtube.com/watch?v=cEzpXJm9OGw)
+
 
 Before running the code, extract the train-images-idx3-ubyte.zip (MNIST dataset) file in the /mnist folder.
 
