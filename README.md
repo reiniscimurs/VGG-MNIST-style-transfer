@@ -16,6 +16,10 @@ https://openaccess.thecvf.com/content_cvpr_2016/html/Gatys_Image_Style_Transfer_
 
 
 
+Before running the code, extract the train-images-idx3-ubyte.zip (MNIST dataset) file in the /mnist folder.
+
+
+
 # Results  
 **Multiple Styles**  
 3 styles used for style feature extraction  
