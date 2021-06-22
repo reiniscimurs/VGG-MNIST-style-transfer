@@ -7,6 +7,15 @@ Image Style Transfer Using Convolutional Neural Networks, Gatys L.A. et al, 2016
 https://openaccess.thecvf.com/content_cvpr_2016/html/Gatys_Image_Style_Transfer_CVPR_2016_paper.html
 
 
+**Main dependencies:**   
+* [PyTorch](https://pytorch.org/)
+* [Torchvision](https://pytorch.org/vision/stable/index.html)
+* [idx2numpy](https://pypi.org/project/idx2numpy/)
+* [OpenCV](https://pypi.org/project/opencv-python/)
+* [Augmentor](https://github.com/mdbloice/Augmentor)
+
+
+
 # Results  
 **Multiple Styles**  
 3 styles used for style feature extraction  
