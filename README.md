@@ -39,7 +39,7 @@ Before running the code, extract the train-images-idx3-ubyte.zip (MNIST dataset)
 |:--:|:--:| :--:|
 | MNIST image |Output |Style example  |
 
-100 style image used for feature extraction:  
+100 style images used for feature extraction:  
 | ![mnist.jpg](https://github.com/reiniscimurs/VGG-MNIST-style-transfer/blob/main/results/res%20num2-100/mnist.jpg) | ![out.jpg](https://github.com/reiniscimurs/VGG-MNIST-style-transfer/blob/main/results/res%20num2-100/out.jpg) | ![style.jpg](https://github.com/reiniscimurs/VGG-MNIST-style-transfer/blob/main/results/res%20num2-100/style.jpg) |
 |:--:|:--:| :--:|
 | MNIST image |Output |Style example  |
